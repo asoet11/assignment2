@@ -1,2 +1,1 @@
-# assignment2
-NodeJs Training - Assignment2
+# Nodejs Training - Assignment2
